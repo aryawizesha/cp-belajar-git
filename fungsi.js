@@ -6,3 +6,6 @@ console.log(subtrack(7,2));
 
 const multiply = (a, b) => a * b;
 console.log(multiply(2,2));
+
+const bagi = (a, b) => a / b;
+console.log(bagi(4,2));
