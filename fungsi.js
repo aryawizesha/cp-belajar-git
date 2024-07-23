@@ -9,3 +9,5 @@ console.log(multiply(2,2));
 
 const bagi = (a, b) => a / b;
 console.log(bagi(4,2));
+
+console.log(add(10,10));
