@@ -10,4 +10,5 @@ console.log(multiply(2,2));
 const bagi = (a, b) => a / b;
 console.log(bagi(4,2));
 
-console.log(add(10,10));
+const mathSin = (Number) => Math.sin(Number);
+console.log(mathSin(10));
